@@ -30,4 +30,12 @@ I'm currently working on<br>Building responsive and interactive web interfaces u
 ---
 [![](https://visitcount.itsvg.in/api?id=alvino619&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###
