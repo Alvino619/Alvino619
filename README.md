@@ -32,10 +32,12 @@ I'm currently working on<br>Building responsive and interactive web interfaces u
 
 
 
+<h2 align="left">Hi 👋! Play game</h2>
+
 ###
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/alvino619/alvino619/output/snake.svg" alt="Snake animation" />
 
 ###
